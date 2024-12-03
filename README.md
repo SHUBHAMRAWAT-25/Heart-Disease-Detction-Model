@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Heart Disease Detection Model</title>
 </head>
 <body>
   <h1>Heart Disease Detection Model</h1>
@@ -81,7 +80,7 @@
   <h2>Installation and Usage</h2>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/&lt;your_username&gt;/heart-disease-detection.git
+      <pre><code>git clone https://github.com/SHUBHAMRAWAT-25/Heart-Disease-Detction-Model.git
 cd heart-disease-detection
       </code></pre>
     </li>
@@ -108,7 +107,7 @@ cd heart-disease-detection
   </ul>
 
   <h2>Contributors</h2>
-  <p><strong>Your Name</strong></p>
+  <p><strong>Shubham Rawat</strong></p>
   <p>Data Scientist in progress<br>Passionate about leveraging data to drive impactful decisions.</p>
 
   <h2>Acknowledgments</h2>
